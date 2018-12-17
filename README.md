@@ -8,7 +8,7 @@
 - Import db_horse_jump.sql
 - Try a few SQL-queries based on data/tables shown
 
-Please see [design_layout.png] (https://github.com/ghenninger/edu_horse-tournament/blob/master/design_layout.png) for table and database schema/layout.
+Please see [design_layout.png](https://github.com/ghenninger/edu_horse-tournament/blob/master/design_layout.png) for table and database schema/layout.
 
 ## Description
 ### School Project where I created a database to mimic a real world horse-tournament
