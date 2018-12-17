@@ -1,14 +1,14 @@
 # edu_horse-tournament
 ### School Project where I created a database to mimic a real world horse-tournament
 
-We were assigned a topic to mimic how a customer asks for a service. In this case I got the opportunity to model a horse-jump tournament (a sport I had no previous knowledge of). Research and creation of Entity-Relation Diagrams, tables etc. was a big part of the process.
+We were assigned a topic to mimic how a customer asks for a service. In this case I got the opportunity to model a horse-jump tournament (a sport I had no previous knowledge of). Research and creation of Entity-Relation Diagrams, tables etc. was a big part of the process. The work resulted in a 30 page report that included theoretical aspects of databases aswell as the practical approach (found here). 
 
 When implementing (in MySQL) I used SQL-queries and phpmyadmin interface and worked primarly with primary keys and seconday keys to create connections between tables and add functionality. Check .png-file for a design layout of tables.
 
 Test-data is included. Tested several SQL-queries to check that internal logic is working
 
 
-### Examples SQL:
+### Examples of SQL used:
 
 *** MAIN SQL = Finding out result after 1st round and who is jumping final round ***
 
