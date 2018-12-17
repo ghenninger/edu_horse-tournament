@@ -1,4 +1,16 @@
 # edu_horse-tournament
+
+## Instructions for usage
+
+- Download db_horse_jump.sql
+- Go to db-environment (localhost XAMPP or online webserver)
+- Create new DB (e.g in MySQL using phpmyadmin)
+- Import db_horse_jump.sql
+- Try a few SQL-queries based on data/tables shown
+
+Please see [design_layout.png] (https://github.com/ghenninger/edu_horse-tournament/blob/master/design_layout.png) for table and database schema/layout.
+
+## Description
 ### School Project where I created a database to mimic a real world horse-tournament
 
 We were assigned a topic to mimic how a customer asks for a service. In this case I got the opportunity to model a horse-jump tournament (a sport I had no previous knowledge of). Research and creation of Entity-Relation Diagrams, tables etc. was a big part of the process. The work resulted in a 30 page report that included theoretical aspects of databases aswell as the practical approach (found here). 
